@@ -144,7 +144,7 @@
     border: 5px solid red;
     padding: 10px;
     margin-bottom: 10px;
-    
+
 }
 
 .border2{
@@ -175,4 +175,28 @@
     color: blue;
     padding: 15px;
     border-radius: 25px;
+}
+
+.box-model{
+    margin: 20px;
+    background-color: aquamarine;
+    padding: 15px 25px 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 400px;
+}
+
+
+#box-modelI{
+    margin: 25px; 
+    background-color: purple;
+    padding: 89px;
+    border: 5px solid green;
+    width: 500px;
+    height: 500px;
+    outline: 5px solid rgb(0, 38, 255);
+}
+
+.texto-box{
+    color: chocolate;
 }
