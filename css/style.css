@@ -200,3 +200,15 @@
 .texto-box{
     color: chocolate;
 }
+
+.tex-aligned{
+    text-align: right;
+}
+
+.container-center{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 300px;
+    border: solid red;
+    margin-left: 130px;
+}
